@@ -3,7 +3,7 @@
   "description": "Impress your friends by pretending to be a real hacker",
   "version": "1.0.0",
   "engines": {
-    "node": "14.x"
+    "node": "20.x"
   },
   "repository": {
     "type": "git",
